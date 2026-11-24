@@ -1,3 +1,5 @@
+@AGENTS.md
+
 # quickjs-emscripten
 
 ## Package Manager
